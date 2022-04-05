@@ -115,8 +115,6 @@ if (col_title in l1) and (col_title in l2):
     for a in range(len(half_keys)):
         dict2[half_keys[a]]= all_values[a]
     
-    #program crashed and i lost all data at this point and had to redo it all 
-    
     count_common_ids= 0
     count_unique_ids= 0
     
