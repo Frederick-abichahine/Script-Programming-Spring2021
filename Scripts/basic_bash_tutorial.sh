@@ -5,7 +5,7 @@
 
 
                                                                         #####################################
-									       #My First Script - Notes													                                            #####################################
+									     #Basic Bash Tutorial - Notes													                                            #####################################
 
 
 #To run the script on the terminal, type bash file_name.sh   // not only bash, can use zsh etc...
